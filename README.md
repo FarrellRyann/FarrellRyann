@@ -18,21 +18,22 @@
   - Machine Learning.
 
 ## 💡 SKILLS.
-  ###Soft Skills###
-    -Critical Thinking
-    -Interactive
-    -Communicative
-    -Problem Solve.
+  **Soft Skills**
+  
+  - Critical Thinking, Interactive, Communicative, Problem Solve.
 
-  ###Hard Skills###
-    ####Programming Language####
-      - HTML, CSS, JavaScript, Python, PHP.
-    ####Software used####
-      - VSCode, PyCharm, Jupyter, GColaborator, Laragon/XAMPP.
+  **Hard Skills**
+  
+  Programming Language :
+  - HTML, CSS, JavaScript, Python, PHP.
+
+  Software used :
+  - VSCode, PyCharm, Jupyter, GColaborator, Laragon/XAMPP.
 
 ## 📫 Reach me on :
-  Instagram : (https://instagram.com/farrellrynn/)
-  Email : (mailto:farrelsapryan@gmail.com)
+  [Instagram](https://instagram.com/farrellrynn/)
+  Or
+  [Email](mailto:farrelsapryan@gmail.com)
 
   Thank you for visiting my GitHub Profile! if you are interested in collaborating and/or working with me,
   let me know via the email above! 😊😊😊
